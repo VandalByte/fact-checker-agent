@@ -13,6 +13,8 @@ This agent acts as your personal fact-checking assistant. It follows a strict `"
 - The `ResearcherAgent` is tasked with gathering the claim or fact from the user, then using the built-in `google_search` tool to verify the claim from a credible source.
 - The `SecretaryAgent` takes the output from the `ResearcherAgent` and saves the correct fact if the user got it wrong to a file using a custom tool `add_facts_to_notes`.
 
+<img alt="image" src="https://github.com/user-attachments/assets/49950b85-7a7f-4ea0-9790-7b3469b574ef" />
+
 ### ⚙️ Installation
 
 If you want to check it out on your own, it's pretty straightforward:
