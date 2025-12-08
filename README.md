@@ -1,12 +1,12 @@
 # 🕵️ Fact Checker Agent
 
-> *A no-nonsense AI assistant that verifies your claims and keeps a log of the myths you believed.*
+> *A no-nonsense sassy AI assistant that verifies your claims and keeps a log of the myths you believed.*
 
 This is a small, practical project built to explore the capabilities of [Google's Agent Development Kit](https://github.com/google/agent-development-kit) (ADK) and the Gemini 2.5 Flash model. I just thought this was an interesting framework and wanted to try it out.
 
 ### 🚀 What It Does?
 
-This agent acts as your personal fact-checking assistant. It follows a strict `"Verify Claim → Confirm → Archive"` workflow:
+This agent acts as your personal fact-checking assistant. It follows a strict `"Verify Claim → Confirm → Archive"` workflow. I also gave it a sassy attitude to add a little extra fun.
 
 ### 🗂️ Technical Workflow
 - The `FactCheckerAgent` is a sequential agent that has access to two sub-agents: the `ResearcherAgent` and the `SecretaryAgent`.
