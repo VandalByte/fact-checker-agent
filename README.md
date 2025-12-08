@@ -21,6 +21,6 @@ If you want to check it out on your own, it's pretty straightforward:
 - Clone this repository
 - Create a new Python virtual environment
 - Run `pip install -r requirements.txt`
+- Rename the `.env.example` to `.env` and add your API key
 - Finally, in the root directory, run `adk web`
 - ADK's web interface should pop up in localhost, where you can chat as you usually would
-
